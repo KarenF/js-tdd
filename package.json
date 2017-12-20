@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarenF/js-tdd-course.git"
+  },
+  "author": "Karen Fischborn <karen.fischborn@gmail.com> (https://github.com/KarenF)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KarenF/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/KarenF/js-tdd-course#readme"
+}
