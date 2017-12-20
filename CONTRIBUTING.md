@@ -9,4 +9,4 @@
 
 **After your pull request is merged**, you can safely delete your branch.
 
-### [<-- Back](https://github.com/KarenF/js-tdd-course)
+### [<-- Back](https://github.com/KarenF/js-tdd)
