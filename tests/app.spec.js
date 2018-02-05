@@ -18,6 +18,7 @@ describe('App', () => {
 
   it('should have a size of 4 when push another value to the array', () => {
     array.push(4)
+    expect(array).to.have.lengthOf(4)
   })
 
   it('should have a size of 2 when pop a value from the array', () => {
