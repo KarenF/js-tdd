@@ -1,12 +1,12 @@
 describe('App', () => {
   describe('Method A', () => {
     context('Case 1', () => {
-      it('should happen lalala', () => {
+      it.skip('should happen lalala', () => {
 
       })
     })
 
-    context.only('Case 2', () => {
+    context('Case 2', () => {
       it('should happen lalala', () => {
 
       })
