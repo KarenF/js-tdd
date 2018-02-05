@@ -6,7 +6,7 @@ describe('App', () => {
       })
     })
 
-    context('Case 2', () => {
+    context.only('Case 2', () => {
       it('should happen lalala', () => {
 
       })
