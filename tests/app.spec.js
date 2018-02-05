@@ -1,5 +1,7 @@
+const expect = require('chai').expect
+
 describe('App', () => {
-  var array
+  let array
 
   before(() => {
   })
@@ -25,5 +27,4 @@ describe('App', () => {
   it('should remove the value 3 when use pop in the array', () => {
     array.pop() === 3
   })
-
 })
